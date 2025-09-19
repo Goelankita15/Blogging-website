@@ -27,7 +27,7 @@ A simple and modern **blogging platform** where users can **add and share blogs*
 
 Clone the repo:  
 ```bash
-git clone https://github.com/your-username/blogging-website.git
+git clone https://github.com/Goelankita15/blogging-website.git
 cd blogging-website
 ```
 
