@@ -20,8 +20,6 @@ A simple and modern **blogging platform** where users can **add and share blogs*
 - **Database**: MongoDB (for blogs & subscribers)  
 - **Other Libraries**:  
   - [Axios](https://axios-http.com/) → API communication  
-  - [React Router](https://reactrouter.com/) → Navigation (if React.js)  
-  - [Nodemailer](https://nodemailer.com/) / Mail API → For subscriptions & notifications  
 
 ---
 
